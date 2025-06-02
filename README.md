@@ -2,7 +2,18 @@
 
 ## Project Overview
 
-This project automates the calculation, reporting, and analytics of advisor compensation for a wealth management firm. It was designed to handle complex commission structures, splits, management/SMA fees, and advisor-specific reporting—using both Excel and Python.
+This project automates the calculation, reporting, and analytics of advisor compensation for a wealth management firm. It was designed to handle complex commission structures, splits, management/SMA fees, and advisor-specific reporting using both Excel and Python.
+
+## Background
+
+Wealth management firms often face the challenge of accurately and efficiently calculating advisor compensation, especially when handling multiple commission structures, split rules, and dynamic reporting needs. Manual calculations can lead to errors, inefficiencies, and lack of transparency. This project was developed to automate and streamline the entire advisor compensation process—ensuring accuracy, scalability, and actionable reporting for stakeholders.
+
+---
+
+## Key Challenge
+
+**Reconciling Business Logic with Code Automation**  
+Translating nuanced compensation rules (commission splits, negative charge adjustments, etc) into both Excel formulas and Python logic required several iterations to ensure every edge case was handled correctly and outputs matched across tools.
 
 ---
 
