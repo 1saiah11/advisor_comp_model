@@ -6,7 +6,7 @@ This project automates the calculation, reporting, and analytics of advisor comp
 
 ## Background
 
-Wealth management firms often face the challenge of accurately and efficiently calculating advisor compensation, especially when handling multiple commission structures, split rules, and dynamic reporting needs. Manual calculations can lead to errors, inefficiencies, and lack of transparency. This project was developed to automate and streamline the entire advisor compensation process—ensuring accuracy, scalability, and actionable reporting for stakeholders.
+Wealth management firms often face the challenge of accurately and efficiently calculating advisor compensation, especially when handling multiple commission structures, split rules, and dynamic reporting needs. Manual calculations can lead to errors, inefficiencies, and lack of transparency. This project was developed to automate and streamline the entire advisor compensation process. THe main focus was ensuring accuracy, scalability, and actionable reporting for stakeholders.
 
 ---
 
